@@ -1,4 +1,4 @@
-## Ler uma sequência de caracteres do teclado
+## Ler uma sequência de bytes do teclado
 
 Ler do teclado uma sequência de caracteres (até ser introduzido <ENTER>), byte a byte.
 
